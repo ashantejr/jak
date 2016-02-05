@@ -7,7 +7,11 @@ html{
     color: black;
 }
 body{
-    font-family: "drake", monospace;
+    font-family: drake, monospace;
+}
+
+input [type=submit]{
+    font-family: drake;
 }
 
 h1{
@@ -41,4 +45,5 @@ h1{
     display: block;
     
 }
+
 /* close commented backslash hack */
